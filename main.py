@@ -17,6 +17,7 @@ print(
     """
 )
 
+
 OPTIONS = ("piedra", "papel", "tijeras", "lagarto", "spock")
 
 WEAKNESSES = {
